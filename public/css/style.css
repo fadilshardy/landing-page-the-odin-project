@@ -213,6 +213,8 @@ section {
 
 /* END QUOTE SECTION */
 
+/* FOOTER SECTION */
+
 .footer {
     background-color: #1F2937;
     color: #f9faf8;
@@ -220,4 +222,6 @@ section {
     font-size: 18px;
     text-align: center;
 }  
+
+/* END FOOTER SECTION */
 
