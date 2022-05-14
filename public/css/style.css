@@ -215,7 +215,9 @@ section {
 
 .footer {
     background-color: #1F2937;
-    color: white;
-
+    color: #f9faf8;
+    padding: 4rem;
+    font-size: 18px;
+    text-align: center;
 }  
 
